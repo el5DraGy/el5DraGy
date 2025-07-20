@@ -34,7 +34,10 @@ I’m passionate about delivering **high-quality software** through effective **
 ---
 
 ## 📌 Featured Projects  
-🚧 *Coming Soon: I’m organizing my testing projects and frameworks here!*  
+🚧 * My testing projects and frameworks here!*  
+- [Automation-Project_SwagLabs](https://github.com/el5DraGy/Automation-Project_SwagLabs)
+- [ExamSimulator-Cpp](https://github.com/el5DraGy/ExamSimulator-Cpp)
+- [Bank-ATM-System](https://github.com/el5DraGy/Bank-ATM-System)
 
 ---
 
