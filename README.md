@@ -24,21 +24,31 @@ I’m passionate about delivering **high-quality software** through effective **
 ---
 
 ## 🛠 Tech & Tools I Work With  
-- **Languages:** Java | C | C++ |  
+- **Languages:** 
+ <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+</p>
+
 - **Automation:** Selenium WebDriver | TestNG | Maven | Page Object Model | Allure Reports  
 - **API Testing:** Postman | REST Assured  
 - **Performance Testing:** JMeter  
 - **CI/CD & VCS:** Jenkins | Git | GitHub  
-- **Test Management:** Jira |  
+- **Test Management:** Jira 
 
 ---
 
 ## 📌 Featured Projects  
 🚧 * My testing projects and frameworks here!*  
-- [Automation-Project_SwagLabs](https://github.com/el5DraGy/Automation-Project_SwagLabs)
-- [ExamSimulator-Cpp](https://github.com/el5DraGy/ExamSimulator-Cpp)
-- [Bank-ATM-System](https://github.com/el5DraGy/Bank-ATM-System)
+- 🧪 [**Automation Project – SwagLabs**](https://github.com/el5DraGy/Automation-Project_SwagLabs)  
+  *UI Automation Framework with Selenium, TestNG, Maven & Allure Reports to validate a sample e-commerce platform.*  
 
+- 📝 [**ExamSimulator – C++**](https://github.com/el5DraGy/ExamSimulator-Cpp)  
+  *A console-based exam management system built with C++.*  
+
+- 💳 [**Bank ATM System**](https://github.com/el5DraGy/Bank-ATM-System)  
+  *A simple ATM simulation project in C++ for managing basic banking operations.*  
 ---
 
 💡 *“Quality is not an act, it’s a habit – and I aim to bring that habit to every project I work on.”*  
