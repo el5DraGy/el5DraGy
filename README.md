@@ -18,7 +18,7 @@ I’m passionate about delivering **high-quality software** through effective **
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](www.linkedin.com/in/mohamed-elkhadragy-b8b157218)]  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/mohamed-elkhadragy-b8b157218) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/el5draGy)  
 
 ---
