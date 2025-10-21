@@ -30,6 +30,7 @@ I’m passionate about delivering **high-quality software** through effective **
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="34" height="34"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
+
 - **Automation:** Selenium WebDriver | TestNG | Maven | Page Object Model | Allure Reports  
 - **API Testing:** Postman | REST Assured  
 - **Performance Testing:** JMeter  
